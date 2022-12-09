@@ -1,0 +1,18 @@
+@font-face {
+  font-family: "font-1";
+  src: url(../assets/fonts/JosefinSans-Medium.ttf);
+}
+
+$font-1: "font-1", sans-serif;
+
+$color-1: #61dafb;
+$color-2: firebrick;
+$color-3: aliceblue;
+$color-4: white;
+$color-5: grey;
+$color-6: #D0EBFF;
+
+* {
+  margin: 0;
+  padding: 0;
+}
